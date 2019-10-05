@@ -1,4 +1,4 @@
-import SHOP_DATA from '../garage/cars';
+import SHOP_DATA from './cars';
 
 const INITIAL_STATE = {
     collections: SHOP_DATA
