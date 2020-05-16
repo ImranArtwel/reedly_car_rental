@@ -4,14 +4,10 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 25px;
-  
 
   .logo-container {
     height: 100%;
     width: 70px;
-    padding: 25px;
-
-    
   }
 
   .options {
@@ -30,6 +26,7 @@
       padding-left: 5px;
       padding-right: 10px;
       cursor: not-allowed;
+      font-style: italic;
     }
   }
 }
